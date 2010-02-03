@@ -1,0 +1,6 @@
+This is a simple interpreter for the Brainfuck language which I wrote
+during a long boring bus ride in 2009 (it's been cleaned up a little
+since then). 
+
+You can find some programs to try it on at
+http://esoteric.sange.fi/brainfuck/bf-source/prog/.
